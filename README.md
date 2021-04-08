@@ -1,4 +1,4 @@
-**Full Stack Travel Log**
+**_Full Stack Travel Log_**
 
 A full stack application to store / list places you have traveled.
 
